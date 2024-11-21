@@ -44,24 +44,21 @@ A U.S.-based e-commerce company requested the development of a dashboard to anal
 ## 📊 Screenshots
 
 ### KPI Banner
-<div align="center">
- <img src="![image](https://github.com/user-attachments/assets/c9165e89-4f21-4803-9f34-469e47ae0716)" alt="KPI Banner" width="70%">
-</div>
+
+![image](https://github.com/user-attachments/assets/c9165e89-4f21-4803-9f34-469e47ae0716)
 
 ### Sales by Category
-<div align="center">
+
 ![image](https://github.com/user-attachments/assets/de6e5152-c3d6-416f-8da0-83bba33962a7)
-</div>
+
 
 ### Sales by Region
-<div align="center">
 ![image](https://github.com/user-attachments/assets/7e68b6a3-216a-47a3-b715-23f699b981e8)
-</div>
+
 
 ### Top and Bottom Products
-<div align="center">
 ![image](https://github.com/user-attachments/assets/c5aa118f-f8d0-4ea9-924e-87afb48552e7)
-</div>
+
 ---
 
 ## 🛠️ Tools and Technologies
